@@ -1,0 +1,8 @@
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\Section8-Binarysearch\Section8-Binarysearch\bin\Debug\Section8-Binarysearch.exe.config
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\Section8-Binarysearch\Section8-Binarysearch\bin\Debug\Section8-Binarysearch.exe
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\Section8-Binarysearch\Section8-Binarysearch\bin\Debug\Section8-Binarysearch.pdb
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\Section8-Binarysearch\Section8-Binarysearch\obj\Debug\Section8-Binarysearch.csproj.AssemblyReference.cache
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\Section8-Binarysearch\Section8-Binarysearch\obj\Debug\Section8-Binarysearch.csproj.SuggestedBindingRedirects.cache
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\Section8-Binarysearch\Section8-Binarysearch\obj\Debug\Section8-Binarysearch.csproj.CoreCompileInputs.cache
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\Section8-Binarysearch\Section8-Binarysearch\obj\Debug\Section8-Binarysearch.exe
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\Section8-Binarysearch\Section8-Binarysearch\obj\Debug\Section8-Binarysearch.pdb
